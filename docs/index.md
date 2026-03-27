@@ -6,6 +6,9 @@ permalink: "/"  #! Remove this if not the homepage
 staff:
  - name: Kelly Schultz
    link: https://library.utoronto.ca/staff/kelly-schultz
+maintainer:
+ - name: Kelly Schultz
+   link: https://library.utoronto.ca/staff/kelly-schultz
 ---
 
 # Visualizing a Network Dataset Using Gephi
