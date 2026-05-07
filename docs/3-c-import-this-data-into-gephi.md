@@ -3,6 +3,13 @@ title: C. Import this data into Gephi
 parent: Visualizing a Network Dataset Using Gephi
 layout: default
 nav_order: 3
+staff:
+    - name: Kelly Schultz
+      link: https://library.utoronto.ca/staff/kelly-schultz
+maintainer:
+    - name: Kelly Schultz
+      link: https://library.utoronto.ca/staff/kelly-schultz
+created_date: 2021-09-13
 ---
 
 C. Import this data into Gephi
@@ -74,3 +81,5 @@ C. Import this data into Gephi
     <img src='{{ '/assets/images/Gephi_C_010.2.png' | relative_url }}' alt="The resulting data table with the 'Edges' button and 'Type' column name highlighted." title='' width='600' height='325' />
 
     Now our network data is loaded, and ready to visualize and analyze.
+
+Technique: [Data Visualization](https://mdlutoronto.github.io/tutorials-search/?technique=Data+Visualization) \| Tools: [Gephi](https://mdlutoronto.github.io/tutorials-search/?tool=Gephi)

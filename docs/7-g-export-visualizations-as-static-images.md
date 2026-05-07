@@ -3,6 +3,13 @@ title: G. Export visualizations as static images
 parent: Visualizing a Network Dataset Using Gephi
 layout: default
 nav_order: 7
+staff:
+    - name: Kelly Schultz
+      link: https://library.utoronto.ca/staff/kelly-schultz
+maintainer:
+    - name: Kelly Schultz
+      link: https://library.utoronto.ca/staff/kelly-schultz
+created_date: 2021-09-13
 ---
 
 G. Export visualizations as static images
@@ -56,3 +63,5 @@ G. Export visualizations as static images
 
     <img src='{{ '/assets/images/Gephi_G_007.2.png' | relative_url }}' alt="In the export window, 'Options...' is opened and selected. In the 'Options PDF' window, page size is set to letter, and all margins are set to 1. " title='' width='600' height='411' />
 8. You should now have a PDF of your graph. When you open up the file, you will notice that there is no legend included. You would need to use a tool, such as [Adobe Illustrator](https://www.adobe.com/ca/products/illustrator.html) or [Inkscape](https://inkscape.org/) to add a legend to your graph.
+
+Technique: [Data Visualization](https://mdlutoronto.github.io/tutorials-search/?technique=Data+Visualization) \| Tools: [Gephi](https://mdlutoronto.github.io/tutorials-search/?tool=Gephi)
