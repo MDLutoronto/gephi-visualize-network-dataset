@@ -3,6 +3,13 @@ title: F. Add labels and make final layout adjustments
 parent: Visualizing a Network Dataset Using Gephi
 layout: default
 nav_order: 6
+staff:
+    - name: Kelly Schultz
+      link: https://library.utoronto.ca/staff/kelly-schultz
+maintainer:
+    - name: Kelly Schultz
+      link: https://library.utoronto.ca/staff/kelly-schultz
+created_date: 2021-09-13
 ---
 
 F. Add labels and make final layout adjustments
@@ -72,3 +79,5 @@ F. Add labels and make final layout adjustments
   
     <img src='{{ '/assets/images/Gephi_F_007.1.png' | relative_url }}' alt='The Reset Colours options in at the side of the Gephi graph pane, highlighted.' title='' width='600' height='117' />
 8. We can see that we can use Gephi to visualize our network data to display the characters in a network and their relationships. Sizes and colours can be adjusted to illustrate attributes and then use the network diagrams to spot any spatial patterns. For example, the largest nodes (if node is sized by degree) could show us key entities in the network that have many connections. We could also see if the largest nodes are always the same colour (if we have colour-coded our nodes by a particular attribute) to see if there’s a relationship between that attribute and degree. Some limited analysis can be done visually and and convey interesting characteristics through our network diagrams.
+
+Technique: [Data Visualization](https://mdlutoronto.github.io/tutorials-search/?technique=Data+Visualization) \| Tools: [Gephi](https://mdlutoronto.github.io/tutorials-search/?tool=Gephi)

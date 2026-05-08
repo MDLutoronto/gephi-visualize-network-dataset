@@ -3,6 +3,13 @@ title: H. Export visualizations as interactive web pages
 parent: Visualizing a Network Dataset Using Gephi
 layout: default
 nav_order: 8
+staff:
+    - name: Kelly Schultz
+      link: https://library.utoronto.ca/staff/kelly-schultz
+maintainer:
+    - name: Kelly Schultz
+      link: https://library.utoronto.ca/staff/kelly-schultz
+created_date: 2021-09-13
 ---
 
 H. Export visualizations as interactive web pages
@@ -16,7 +23,7 @@ H. Export visualizations as interactive web pages
 
     <img src='{{ '/assets/images/Gephi_H_001.2.png' | relative_url }}' alt="The plugins window with the 'Installed' tab open and SigmaExporter highlighted." title='' width='600' height='370' />
 
-    If you are missing the Plugin, you can download it here from [Gephi’s website](https://gephi.org/plugins/#/plugin/sigmaexporter). For further guidance on this step, refer to [section A](#a-set-up-gephi) of this tutorial.
+    If you are missing the Plugin, you can download it here from [Gephi’s website](https://gephi.org/plugins/#/plugin/sigmaexporter). For further guidance on this step, refer to [section A](https://mdlutoronto.github.io/gephi-visualize-network-dataset/1-a-set-up-gephi/) of this tutorial.
 2. In the same **Plugins** window, now make sure that SigmaExporter is also active. Click on the **Installed** tab and check that a green checkmark appears in the Active column for SigmaExporter. If it doesn’t, check the box next to SigmaExporter and click on the **Activate** button underneath the list of plugins. Then close the plugins window.
 
     <img src='{{ '/assets/images/Gephi_H_002.1.png' | relative_url }}' alt="The plugins window with the 'Installed' tab open and SigmaExporter selected. Activate button below the plugin list highlighted." title='' width='600' height='370' />
@@ -57,3 +64,5 @@ If you try to open up the newly exported index.html file to view it, you will fi
 8. Browse to the network folder that you just exported and select it. Then click on the **Select Folder** button.
 9. The contents of the folder should appear in the left panel. Right click on index.html and select **Open with Live Server**.
 10. This should open up the file in your default browser, and you should be able to view it and interact with it.
+
+Technique: [Data Visualization](https://mdlutoronto.github.io/tutorials-search/?technique=Data+Visualization) \| Tools: [Gephi](https://mdlutoronto.github.io/tutorials-search/?tool=Gephi)

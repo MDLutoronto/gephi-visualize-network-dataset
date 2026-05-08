@@ -3,6 +3,13 @@ title: E. Use layout algorithms
 parent: Visualizing a Network Dataset Using Gephi
 layout: default
 nav_order: 5
+staff:
+    - name: Kelly Schultz
+      link: https://library.utoronto.ca/staff/kelly-schultz
+maintainer:
+    - name: Kelly Schultz
+      link: https://library.utoronto.ca/staff/kelly-schultz
+created_date: 2021-09-13
 ---
 
 E. Use layout algorithms
@@ -45,3 +52,5 @@ E. Use layout algorithms
     We can click on the magnifying glass near the bottom left of the edge of the graph pane, to centre our graph on the screen – but watch out as it does sometimes zoom out again when you do that. Let’s zoom in and centre our graph.
 
     <img src='{{ '/assets/images/Gephi_E_005.2.png' | relative_url }}' alt="The 'Center on Graph' tool located on the bottom left of Graph pane, highlighted." title='' width='600' height='526' />
+
+Technique: [Data Visualization](https://mdlutoronto.github.io/tutorials-search/?technique=Data+Visualization) \| Tools: [Gephi](https://mdlutoronto.github.io/tutorials-search/?tool=Gephi)

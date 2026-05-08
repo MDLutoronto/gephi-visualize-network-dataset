@@ -1,8 +1,15 @@
 ---
-title: Adjust the appearance of nodes and edges
+title: D. Adjust the appearance of nodes and edges
 parent: Visualizing a Network Dataset Using Gephi
 layout: default
 nav_order: 4
+staff:
+    - name: Kelly Schultz
+      link: https://library.utoronto.ca/staff/kelly-schultz
+maintainer:
+    - name: Kelly Schultz
+      link: https://library.utoronto.ca/staff/kelly-schultz
+created_date: 2021-09-13
 ---
 
 D. Adjust the appearance of nodes and edges
@@ -124,3 +131,5 @@ D. Adjust the appearance of nodes and edges
     Now the edges on your graph have been colour-coded correspond to their different relationships.
 
     <img src='{{ '/assets/images/Gephi_D_011.4.png' | relative_url }}' alt="The 'Apply' button at the bottom of the 'Appearance' pane is highlighted. The resulting graph is also displayed." title='' width='600' height='501' />
+
+Technique: [Data Visualization](https://mdlutoronto.github.io/tutorials-search/?technique=Data+Visualization) \| Tools: [Gephi](https://mdlutoronto.github.io/tutorials-search/?tool=Gephi)
