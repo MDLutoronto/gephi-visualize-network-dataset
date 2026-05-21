@@ -53,4 +53,4 @@ E. Use layout algorithms
 
     <img src='{{ '/assets/images/Gephi_E_005.2.png' | relative_url }}' alt="The 'Center on Graph' tool located on the bottom left of Graph pane, highlighted." title='' width='600' height='526' />
 
-Technique: [Data Visualization](https://mdlutoronto.github.io/tutorials-search/?technique=Data+Visualization) \| Tools: [Gephi](https://mdlutoronto.github.io/tutorials-search/?tool=Gephi)
+**Technique:** [Data Visualization](https://mdlutoronto.github.io/tutorials-search/?technique=Data+Visualization) \| **Tools:** [Gephi](https://mdlutoronto.github.io/tutorials-search/?tool=Gephi)

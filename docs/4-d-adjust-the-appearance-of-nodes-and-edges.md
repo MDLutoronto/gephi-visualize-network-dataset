@@ -132,4 +132,4 @@ D. Adjust the appearance of nodes and edges
 
     <img src='{{ '/assets/images/Gephi_D_011.4.png' | relative_url }}' alt="The 'Apply' button at the bottom of the 'Appearance' pane is highlighted. The resulting graph is also displayed." title='' width='600' height='501' />
 
-Technique: [Data Visualization](https://mdlutoronto.github.io/tutorials-search/?technique=Data+Visualization) \| Tools: [Gephi](https://mdlutoronto.github.io/tutorials-search/?tool=Gephi)
+**Technique:** [Data Visualization](https://mdlutoronto.github.io/tutorials-search/?technique=Data+Visualization) \| **Tools:** [Gephi](https://mdlutoronto.github.io/tutorials-search/?tool=Gephi)

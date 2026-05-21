@@ -21,4 +21,4 @@ B. Download the tutorial dataset
   
     *Note: Different computers have different setups. On a Mac, just double-click on the file to extract its files. On a PC, you might first want to install a great little program called* [*7-Zip*](https://www.7-zip.org/) *(if you don't already have it!). Then you should be able to right click on the zip file and select 7-Zip, then Extract Here to extract its files.*
 
-Technique: [Data Visualization](https://mdlutoronto.github.io/tutorials-search/?technique=Data+Visualization) \| Tools: [Gephi](https://mdlutoronto.github.io/tutorials-search/?tool=Gephi)
+**Technique:** [Data Visualization](https://mdlutoronto.github.io/tutorials-search/?technique=Data+Visualization) \| **Tools:** [Gephi](https://mdlutoronto.github.io/tutorials-search/?tool=Gephi)

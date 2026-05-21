@@ -65,4 +65,4 @@ If you try to open up the newly exported index.html file to view it, you will fi
 9. The contents of the folder should appear in the left panel. Right click on index.html and select **Open with Live Server**.
 10. This should open up the file in your default browser, and you should be able to view it and interact with it.
 
-Technique: [Data Visualization](https://mdlutoronto.github.io/tutorials-search/?technique=Data+Visualization) \| Tools: [Gephi](https://mdlutoronto.github.io/tutorials-search/?tool=Gephi)
+**Technique:** [Data Visualization](https://mdlutoronto.github.io/tutorials-search/?technique=Data+Visualization) \| **Tools:** [Gephi](https://mdlutoronto.github.io/tutorials-search/?tool=Gephi)
