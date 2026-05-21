@@ -82,4 +82,4 @@ C. Import this data into Gephi
 
     Now our network data is loaded, and ready to visualize and analyze.
 
-Technique: [Data Visualization](https://mdlutoronto.github.io/tutorials-search/?technique=Data+Visualization) \| Tools: [Gephi](https://mdlutoronto.github.io/tutorials-search/?tool=Gephi)
+**Technique:** [Data Visualization](https://mdlutoronto.github.io/tutorials-search/?technique=Data+Visualization) \| **Tools:** [Gephi](https://mdlutoronto.github.io/tutorials-search/?tool=Gephi)

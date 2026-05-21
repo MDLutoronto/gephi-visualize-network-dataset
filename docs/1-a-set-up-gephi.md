@@ -27,4 +27,4 @@ A. Set up Gephi
 
     <img src='{{ '/assets/images/Gephi_A_005.1.png' | relative_url }}' alt="The Plugin Installer window with the 'Finish' button highlighted." title='' width='600' height='541' />
 
-Technique: [Data Visualization](https://mdlutoronto.github.io/tutorials-search/?technique=Data+Visualization) \| Tools: [Gephi](https://mdlutoronto.github.io/tutorials-search/?tool=Gephi)
+**Technique:** [Data Visualization](https://mdlutoronto.github.io/tutorials-search/?technique=Data+Visualization) \| **Tools:** [Gephi](https://mdlutoronto.github.io/tutorials-search/?tool=Gephi)
